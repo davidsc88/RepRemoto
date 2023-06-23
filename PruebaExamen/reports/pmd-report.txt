@@ -1,0 +1,5 @@
+src/Prueba/Prueba1.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/Prueba/Prueba1.java:3:	CommentRequired:	CommentRequired: Class comments are required
+src/Prueba/Prueba1.java:3:	UseUtilityClass:	UseUtilityClass: This utility class has a non-private constructor
+src/Prueba/Prueba1.java:5:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/Prueba/Prueba1.java:6:	SystemPrintln:	SystemPrintln: Usage of System.out/err
